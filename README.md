@@ -1,1 +1,1 @@
-# Linux-Introduction-and-Operation
+# 리눅스 기초와 운영 강의 기록
